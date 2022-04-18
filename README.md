@@ -18,6 +18,9 @@
     <img src="assets/5.png" width="200">
 </span>
 <span>
+    <img src="assets/6.png" width="200">
+</span>
+<span>
     <img src="assets/7.png" width="200">
 </span>
 <span>
